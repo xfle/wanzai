@@ -101,7 +101,10 @@ div.row>div img.img-responsive{
 .item-box-desc{
 	padding:10px;
 }
-.item-box-desc h4,small{
+
+/*首页新闻内容日期*/
+
+.item-box-desc h4{
 	text-align: center;
 }
 /*友情链接上下间距*/
@@ -215,4 +218,8 @@ section{
 }
 #header{
 	    background-color: #175b80;
+}
+/*视频区域日期*/
+.sp small{
+	text-align: center;
 }
