@@ -1,0 +1,18 @@
+/* 下拉菜单宽距 */
+#topNav ul.dropdown-menu{
+	min-width: 110px;
+}
+/* head body间距*/
+body.boxed section{
+	padding-top: 10px;
+}
+/* 下拉菜单剧中 */
+
+#topNav ul.dropdown-menu li a{
+	text-align: center;
+}
+/* 二维码大小 */
+
+div.row>div img.img-responsive{
+	width:100%;
+}
