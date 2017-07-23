@@ -127,7 +127,7 @@ section{
 }
 .lxwm p{
 	clear: both;
-	padding-top:8px;
+	padding-top:3px;
 }
 .lxwm p i{
 	margin:10px 10px 10px 0px;
@@ -173,6 +173,7 @@ section{
 }
 .f2-line{
 	border-left:1px solid rgba(255,255,255,0.1);
+	font-size:12px;
 }
 #footer>.container {
     padding-top: 50px;
@@ -222,4 +223,25 @@ section{
 /*视频区域日期*/
 .sp small{
 	text-align: center;
+}
+/*注册信息*/
+.zcxx{
+	font-size: 10px;
+}
+
+/*article 图片大小设置*/
+.article p img{
+	max-width: 100%;;
+}
+/*文章详情页相关文章图片*/
+.thumbnail-change{
+	margin-bottom:5px;
+}
+.about img{
+	max-width:100%;
+}
+
+/*about技能荣誉*/
+.jineng ul li span{
+	padding:0;
 }
